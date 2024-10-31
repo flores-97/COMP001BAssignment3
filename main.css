@@ -29,7 +29,8 @@ footer {
 }
 
 header {
-	font-style: oblique;
+	margin-top: -20px;
+	margin-left: 20px;
 }
 
 img {
@@ -52,5 +53,5 @@ nav {
 }
 
 #main-container {
-
+	font
 }
